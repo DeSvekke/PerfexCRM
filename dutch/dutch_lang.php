@@ -1,6 +1,6 @@
 <?php
 
-# Version 1.0.0
+# Version 1.0.1
 #
 # General
 $lang['id']                   = 'ID';
@@ -1298,7 +1298,7 @@ $lang['settings_custom_pdf_logo_image_url_tooltip'] = 'U zult waarschijnlijk pro
 
 # General
 $lang['sale_agent_string']               = 'Contactpersoon';
-$lang['amount_display_in_base_currency'] = 'Bedrag is weergegeven in uw standaar munteenheid - Gebruik dit rapport alleen als u 1 munteenheid gebruikt voor betalingen en kosten.';
+$lang['amount_display_in_base_currency'] = 'Bedrag is weergegeven in uw standaard munteenheid - Gebruik dit rapport alleen als u 1 munteenheid gebruikt voor betalingen en kosten.';
 # Leads
 $lang['leads_summary'] = 'Leads Opsomming';
 
@@ -1500,7 +1500,7 @@ $lang['estimate_table_item_description']          = 'Beschrijving';
 # Version 1.0.6
 # Invoices
 # Currencies
-$lang['cant_delete_base_currency'] = 'U kunt de standaar munteenheid niet verwijderen. U moet een nieuwe standaard munteenheid toewijzen en de oude verwijderen.';
+$lang['cant_delete_base_currency'] = 'U kunt de standaard munteenheid niet verwijderen. U moet een nieuwe standaard munteenheid toewijzen en de oude verwijderen.';
 $lang['invoice_copy']              = 'Kopieer Factuur';
 $lang['invoice_copy_success']      = 'Factuur succesvol gekopieerd';
 $lang['invoice_copy_fail']         = 'Onsuccesvol in factuur kopieren.';
@@ -1748,7 +1748,7 @@ $lang['edit_department']      = 'Wijzig Afdeling';
 # Expenses
 $lang['edit_expense_category'] = 'Wijzig Kosten Categorie';
 # Settings
-$lang['customer_default_country']                                 = 'Standaar Land';
+$lang['customer_default_country']                                 = 'Standaard land';
 $lang['settings_sales_require_client_logged_in_to_view_estimate'] = 'Klant moet ingelogd zijn om schatting te bekijken';
 $lang['set_reminder']                                             = 'Herinnering opzetten';
 $lang['set_reminder_date']                                        = 'Datum om herinnerd te worden';
